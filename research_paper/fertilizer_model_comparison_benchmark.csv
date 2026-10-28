@@ -1,0 +1,5 @@
+Model Architecture,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1-Score (%),5-Fold CV Score (%),Inference Latency (ms),Train Time (s)
+Random Forest (Proposed),87.45,71.62,72.79,71.88,88.7 +/- 0.51,0.0328,0.95
+Gradient Boosting,87.85,74.66,74.87,74.74,88.74 +/- 0.37,0.0265,32.658
+Decision Tree (Baseline),87.3,73.25,73.7,73.45,88.59 +/- 0.31,0.0244,0.459
+Multi-Layer Perceptron (ANN),81.35,65.57,65.96,65.74,82.93 +/- 0.72,0.0171,33.392

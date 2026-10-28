@@ -1,0 +1,4 @@
+Model Architecture,Parameters (M),Top-1 Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1-Score (%),Latency (ms/img),Train Time (s)
+EfficientNet-B0 (Proposed),4.03 M,97.89,97.22,97.36,97.18,2.99,177.71
+ResNet-18 (Residual Baseline),11.18 M,91.81,93.96,91.73,91.77,2.82,147.95
+MobileNet-V2 (Mobile Baseline),2.24 M,97.87,97.45,98.06,97.73,2.94,159.43
